@@ -1,0 +1,20 @@
+{
+    "source": "https://www.kaggle.com/datasets/yasserh/titanic-dataset",
+    "cols": [
+        "PassengerId",
+        "Survived",
+        "Pclass",
+        "Name",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Ticket",
+        "Fare",
+        "Cabin",
+        "Embarked"
+    ],
+    "description": "A dataset that shows the survivors of the titanic tragedy.",
+    "path": "/home/lyle/tutorial/titanic_analysis/analysis/data/Titanic-Dataset.csv",
+    "id": "Dataset_d57a6674-da58-4de5-a1a2-956a9737a27d"
+}
